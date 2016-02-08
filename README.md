@@ -1,0 +1,2 @@
+# cocciground
+A Coccinelle playground
